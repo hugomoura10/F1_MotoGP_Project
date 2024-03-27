@@ -15,3 +15,5 @@ Java -Djetty.host=0.0.0.0 -Djetty.port=8080 -jar blazegraph.jar
 
 3)QUERIES
 3.1) You can retrieve the queries from the file Queries in order to apply them using the blazegraph.
+
+WORK GROUP PROJECT
